@@ -15,6 +15,7 @@ function App() {
     window.addEventListener("resize", handleResize);
     return () => window.removeEventListener("resize", handleResize);
   }, []);
+  
 
 
   const navLinks = [
@@ -38,6 +39,10 @@ function App() {
         "/projects/athletiqx/3.jpg",
         "/projects/athletiqx/4.jpg",
         "/projects/athletiqx/5.jpg",
+        "/projects/athletiqx/6.jpg",
+        "/projects/athletiqx/7.jpg",
+        "/projects/athletiqx/8.jpg",
+        "/projects/athletiqx/9.jpg",
       ],
     },
     {
@@ -161,8 +166,8 @@ function App() {
       <nav className="navbar">
         <div className="logo">
           <a href="#hero" className="main">
-            <h1>
-              JCS.<FaDev style={{ fontSize: "2rem" }} />
+            <h1 className="typing">
+              <span className="typing-text"> JCS.<FaDev style={{ fontSize: "2rem" }} /></span>
             </h1>
           </a>
         </div>
@@ -382,11 +387,6 @@ function App() {
               </div>
 
               <div className="skill-item">
-                <img src="/logos/vue.png" alt="Vue" />
-                <span>Vue</span>
-              </div>
-
-              <div className="skill-item">
                 <img src="/logos/react.png" alt="React" />
                 <span>React</span>
               </div>
@@ -399,6 +399,16 @@ function App() {
               <div className="skill-item">
                 <img src="/logos/jquery.png" alt="jQuery" />
                 <span>jQuery</span>
+              </div>
+
+              <div className="skill-item">
+                <img src="/logos/vue.png" alt="Vue" />
+                <span>Vue</span>
+              </div>
+
+              <div className="skill-item">
+                <img src="/logos/ruby.png" alt="Ruby" />
+                <span>Ruby</span>
               </div>
 
               <div className="skill-item">
@@ -422,6 +432,11 @@ function App() {
               </div>
 
               <div className="skill-item">
+                <img src="/logos/json.png" alt="JSON" />
+                <span>JSON</span>
+              </div>
+
+              <div className="skill-item">
                 <img src="/logos/xml.png" alt="XML" />
                 <span>XML</span>
               </div>
@@ -432,18 +447,13 @@ function App() {
               </div>
 
               <div className="skill-item">
-                <img src="/logos/github.png" alt="Git" />
-                <span>GitHub</span>
-              </div>
-
-              <div className="skill-item">
-                <img src="/logos/json.png" alt="JSON" />
-                <span>JSON</span>
-              </div>
-
-              <div className="skill-item">
                 <img src="/logos/retool.png" alt="Retool" />
                 <span>Retool</span>
+              </div>
+
+              <div className="skill-item">
+                <img src="/logos/github.png" alt="Git" />
+                <span>GitHub</span>
               </div>
             </div>
           </div>
