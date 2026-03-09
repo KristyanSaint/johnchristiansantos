@@ -241,7 +241,7 @@ function App() {
             >
               LinkedIn Profile
             </a>
-            <a href="/John-Christian-Santos-Resume-Final.pdf" download className="btn secondary">
+            <a href="/JOHN CHRISTIAN SANTOS - CV.pdf" download className="btn secondary">
               Download Resume
             </a>
           </div>
