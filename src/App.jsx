@@ -207,7 +207,7 @@ function App() {
       <section id="hero" className="hero">
         <div className="hero-left">
           <img
-            src="/logo.jpg"
+            src="/logo.webp"
             alt="John Christian Santos"
             className="hero-image"
           />
@@ -271,7 +271,7 @@ function App() {
           {/* Timeline Item */}
           <div className="timeline-item">
             <div className="timeline-image">
-              <img src="/hsi.png" alt="Highly Succeed Inc" />
+              <img src="/hsi.webp" alt="Highly Succeed Inc" />
             </div>
             <div className="timeline-content">
               <h3 className="timeline-role">Highly Succeed Inc. – System Administration Intern</h3>
@@ -286,7 +286,7 @@ function App() {
           {/* Another Item */}
           <div className="timeline-item">
             <div className="timeline-image">
-              <img src="/csi.png" alt="Circuit Solutions Inc" />
+              <img src="/csi.webp" alt="Circuit Solutions Inc" />
             </div>
             <div className="timeline-content">
               <h3 className="timeline-role">Circuit Solutions Inc. – Full Stack Developer Intern</h3>
@@ -300,7 +300,7 @@ function App() {
 
           <div className="timeline-item">
             <div className="timeline-image">
-              <img src="/gdslink.png" alt="GDSLink LLC" />
+              <img src="/gdslink.webp" alt="GDSLink LLC" />
             </div>
             <div className="timeline-content">
               <h3 className="timeline-role">GDS Link LLC – Solutions Analyst</h3>
@@ -320,7 +320,7 @@ function App() {
           {/* Another Item */}
           <div className="timeline-item">
             <div className="timeline-image">
-              <img src="/self-employed.png" alt="Commission" />
+              <img src="/self-employed.webp" alt="Commission" />
             </div>
             <div className="timeline-content">
               <h3 className="timeline-role">Project-Based - Full Stack Web and Mobile Developer</h3>
@@ -334,7 +334,7 @@ function App() {
           {/* Timeline Item */}
           <div className="timeline-item">
             <div className="timeline-image">
-              <img src="/washyard.png" alt="Washyard Self Service Laundromat" />
+              <img src="/self-employed.webp" alt="Washyard Self Service Laundromat" />
             </div>
             <div className="timeline-content">
               <h3 className="timeline-role">Washyard Self Service Laundromat - Full Stack Web Developer</h3>
@@ -348,7 +348,7 @@ function App() {
           {/* Another Item */}
           <div className="timeline-item">
             <div className="timeline-image">
-              <img src="/self-employed.png" alt="Commission" />
+              <img src="/self-employed.webp" alt="Commission" />
             </div>
             <div className="timeline-content">
               <h3 className="timeline-role">Project-Based - Full Stack Mobile Developer</h3>
@@ -469,7 +469,7 @@ function App() {
                   rel="noopener noreferrer"
                 >
                   <img
-                    src="/certifications/its.png"
+                    src="/certifications/its.webp"
                     alt="IT Specialist - HTML and CSS"
                     className="cert-image"
                   />
@@ -484,7 +484,7 @@ function App() {
                   rel="noopener noreferrer"
                 >
                   <img
-                    src="/certifications/mta.png"
+                    src="/certifications/mta.webp"
                     alt="MTA: Database Fundamentals - Certified 2019"
                     className="cert-image"
                   />
@@ -499,7 +499,7 @@ function App() {
                   rel="noopener noreferrer"
                 >
                   <img
-                    src="/certifications/ccnaensa.png"
+                    src="/certifications/ccnaensa.webp"
                     alt="CCNA: Enterprise Networking, Security, and Automation"
                     className="cert-image"
                   />
@@ -514,7 +514,7 @@ function App() {
                   rel="noopener noreferrer"
                 >
                   <img
-                    src="/certifications/cyberops.png"
+                    src="/certifications/cyberops.webp"
                     alt="CyberOps Associate"
                     className="cert-image"
                   />
@@ -529,7 +529,7 @@ function App() {
                   rel="noopener noreferrer"
                 >
                   <img
-                    src="/certifications/ccnasrwe.png"
+                    src="/certifications/ccnasrwe.webp"
                     alt="CCNA: Switching, Routing, and Wireless Essentials"
                     className="cert-image"
                   />
@@ -544,7 +544,7 @@ function App() {
                   rel="noopener noreferrer"
                 >
                   <img
-                    src="/certifications/devnet.png"
+                    src="/certifications/devnet.webp"
                     alt="DevNet Associate"
                     className="cert-image"
                   />
@@ -559,7 +559,7 @@ function App() {
                   rel="noopener noreferrer"
                 >
                   <img
-                    src="/certifications/ccnaitn.png"
+                    src="/certifications/ccnaitn.webp"
                     alt="CCNA: Introduction to Networks"
                     className="cert-image"
                   />
