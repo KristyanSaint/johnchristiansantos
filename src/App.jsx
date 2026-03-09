@@ -372,87 +372,87 @@ function App() {
             <div className="skills-grid">
 
               <div className="skill-item">
-                <img src="/logos/html.png" alt="HTML" />
+                <img src="/logos/html.webp" alt="HTML" />
                 <span>HTML</span>
               </div>
 
               <div className="skill-item">
-                <img src="/logos/css.png" alt="CSS" />
+                <img src="/logos/css.webp" alt="CSS" />
                 <span>CSS</span>
               </div>
 
               <div className="skill-item">
-                <img src="/logos/javascript.png" alt="JavaScript" />
+                <img src="/logos/javascript.webp" alt="JavaScript" />
                 <span>JavaScript</span>
               </div>
 
               <div className="skill-item">
-                <img src="/logos/react.png" alt="React" />
+                <img src="/logos/react.webp" alt="React" />
                 <span>React</span>
               </div>
 
               <div className="skill-item">
-                <img src="/logos/reactnative.png" alt="React Native" />
+                <img src="/logos/reactnative.webp" alt="React Native" />
                 <span>React Native</span>
               </div>
 
               <div className="skill-item">
-                <img src="/logos/jquery.png" alt="jQuery" />
+                <img src="/logos/jquery.webp" alt="jQuery" />
                 <span>jQuery</span>
               </div>
 
               <div className="skill-item">
-                <img src="/logos/vue.png" alt="Vue" />
+                <img src="/logos/vue.webp" alt="Vue" />
                 <span>Vue</span>
               </div>
 
               <div className="skill-item">
-                <img src="/logos/ruby.png" alt="Ruby" />
+                <img src="/logos/ruby.webp" alt="Ruby" />
                 <span>Ruby</span>
               </div>
 
               <div className="skill-item">
-                <img src="/logos/php.png" alt="PHP" />
+                <img src="/logos/php.webp" alt="PHP" />
                 <span>PHP</span>
               </div>
 
               <div className="skill-item">
-                <img src="/logos/laravel.png" alt="Laravel" />
+                <img src="/logos/laravel.webp" alt="Laravel" />
                 <span>Laravel</span>
               </div>
 
               <div className="skill-item">
-                <img src="/logos/mysql.png" alt="MySQL" />
+                <img src="/logos/mysql.webp" alt="MySQL" />
                 <span>MySQL</span>
               </div>
 
               <div className="skill-item">
-                <img src="/logos/mongodb.png" alt="MongoDB" />
+                <img src="/logos/mongodb.webp" alt="MongoDB" />
                 <span>MongoDB</span>
               </div>
 
               <div className="skill-item">
-                <img src="/logos/json.png" alt="JSON" />
+                <img src="/logos/json.webp" alt="JSON" />
                 <span>JSON</span>
               </div>
 
               <div className="skill-item">
-                <img src="/logos/xml.png" alt="XML" />
+                <img src="/logos/xml.webp" alt="XML" />
                 <span>XML</span>
               </div>
 
               <div className="skill-item">
-                <img src="/logos/xslt.png" alt="XSLT" />
+                <img src="/logos/xslt.webp" alt="XSLT" />
                 <span>XSLT</span>
               </div>
 
               <div className="skill-item">
-                <img src="/logos/retool.png" alt="Retool" />
+                <img src="/logos/retool.webp" alt="Retool" />
                 <span>Retool</span>
               </div>
 
               <div className="skill-item">
-                <img src="/logos/github.png" alt="Git" />
+                <img src="/logos/github.webp" alt="Git" />
                 <span>GitHub</span>
               </div>
             </div>
