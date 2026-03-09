@@ -122,6 +122,7 @@ body,
   min-height: 90vh;
   padding: 4rem 8%;
   gap: 3rem;
+  background: #fff;
 }
 .hero-left {
   flex: 1.2;
@@ -138,6 +139,7 @@ body,
 .hero-right {
   flex: 2.3;
   padding-left: 2rem;
+  background: #fff;
 }
 .hero-title {
   font-size: 5.5rem;
