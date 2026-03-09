@@ -152,6 +152,7 @@ body,
   margin-top: 2rem;
   display: flex;
   gap: 1rem;
+  background: #fff;
 }
 .hero-contact {
   margin-top: 1.5rem;
