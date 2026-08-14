@@ -15,7 +15,7 @@ function App() {
     window.addEventListener("resize", handleResize);
     return () => window.removeEventListener("resize", handleResize);
   }, []);
-  
+
 
 
   const navLinks = [
@@ -241,7 +241,7 @@ function App() {
             >
               LinkedIn Profile
             </a>
-            <a href="/JOHN CHRISTIAN SANTOS - CV.pdf" download className="btn secondary">
+            <a href="/JOHN CHRISTIAN SANTOS - RESUME.pdf" download className="btn secondary">
               Download Resume
             </a>
           </div>
@@ -257,7 +257,7 @@ function App() {
         <p className="section-text slide-in delay">
           👋 Hi, you can call me JC or Choy, a full-stack web and mobile developer and a graduate of <strong>Bachelor of Science in Information Technology (BSIT) specializing in Web and Mobile Application</strong> from <strong>FEU Institute of Technology 🟩🟨🟩🐃</strong>.
 
-          <br/> <br/>For me, building software isn’t just about writing code—it’s about crafting solutions that solve real problems and make people’s lives easier. My goal is to keep creating meaningful platforms that blend technical expertise with user-focused design, while growing as a developer who thrives on challenges. ✨🌠
+          <br /> <br />For me, building software isn’t just about writing code—it’s about crafting solutions that solve real problems and make people’s lives easier. My goal is to keep creating meaningful platforms that blend technical expertise with user-focused design, while growing as a developer who thrives on challenges. ✨🌠
         </p>
       </section>
 
